@@ -53,7 +53,6 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-darkgreen?style=for-the-badge&logo=springsecurity)
 ![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge&logo=hibernate)
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 
 ---
 
@@ -61,6 +60,11 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
+---
+## 📊 Data Science & ML
+
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ---
 
 ## 🛠️ Tools & Technologies
