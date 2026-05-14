@@ -103,11 +103,6 @@ Java • Spring Boot • Spring Security • MySQL • Hibernate • REST APIs
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Soumili0&theme=tokyonight)
 
----
-
-# 🏆 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumili0&layout=compact&theme=tokyonight)
 
 ---
 # ⚡ Developer Mindset
