@@ -93,12 +93,6 @@ Java • Spring Boot • Spring Security • MySQL • Hibernate • REST APIs
 
 
 
-# 📊 GitHub Stats
-
-![Soumili's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumili0&show_icons=true&theme=tokyonight)
-
----
-
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Soumili0&theme=tokyonight)
